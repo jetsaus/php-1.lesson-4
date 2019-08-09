@@ -10,3 +10,4 @@ define('TEMPLATES_DIR', SITE_DIR . 'templates/');
 define('IMG_DIR', 'img/');
 
 require_once ENGINE_DIR . 'functions.php';
+require_once ENGINE_DIR . 'gallery.php';

@@ -1,3 +1,3 @@
 <div>
-	Our site: https://geekbrains.ru
+	Моя почта: jetsaus@gmail.com
 </div>
