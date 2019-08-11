@@ -16,5 +16,5 @@
 </body>
 </html>
 <div>
-	<a href="mailto:jetsaus@gmail.com">Написать мне</a>
+	<a href="mailto:jetsaus@gmail.com?subject=С сайта фотогалереи&body=Здравствуйте!">Написать мне</a>
 </div>
